@@ -1,6 +1,6 @@
 # uCycle
 
-UCycle
+UCycle, a project implemented during the UniHack competition.
 
 We want to introduce you a new concept of collecting and recycling. This concept is about feedback of the collecting points in order to see when it's the time to empty the bins.
 
